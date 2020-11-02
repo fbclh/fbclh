@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-Dribble: 
-LinkeIn:
-Web:
+Dribble: dribble.com/fbclh
+LinkeIn: linkedin.com/fbclh
+Web: fbclh.tech
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
