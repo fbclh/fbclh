@@ -8,20 +8,12 @@ const moreAboutMe = {
   dribble: 'dribble.com/fbclh',
   linkedIn: 'linkedin.com/fbclh',
   angelList: 'angel.co/fbclh',
-  web: 'fbclh.tech',
-  // test: [projecteuler.net/about](https://projecteuler.net/about)
+  web: 'fbclh.tech'
 };
 ```
 -->
 
-```javascript
-const moreAboutMe = {
-  dribble: 'dribble.com/fbclh',
-  linkedIn: 'linkedin.com/fbclh',
-  angelList: 'angel.co/fbclh',
-  web: 'fbclh.tech'
-};
-```
+
 
 
 
