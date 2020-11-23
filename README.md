@@ -13,7 +13,7 @@ const moreAboutMe = {
 -->
 
 
-```
+```javascript
 const moreAboutMe = {
   dribble: dribble.com/fbclh,
   linkedIn: linkedin.com/fbclh,
