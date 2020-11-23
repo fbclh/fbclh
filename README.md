@@ -5,13 +5,23 @@ Dribble: dribble.com/fbclh | LinkeIn: linkedin.com/fbclh | AngelList: angel.co/f
 
 ```javascript
 const moreAboutMe = {
-  dribble: dribble.com/fbclh,
-  linkedIn: linkedin.com/fbclh,
-  angelList: angel.co/fbclh,
-  web: fbclh.tech,
-  test: [projecteuler.net/about](https://projecteuler.net/about)
+  dribble: 'dribble.com/fbclh',
+  linkedIn: 'linkedin.com/fbclh',
+  angelList: 'angel.co/fbclh',
+  web: 'fbclh.tech',
+  // test: [projecteuler.net/about](https://projecteuler.net/about)
 };
 ```
 -->
+
+```javascript
+const moreAboutMe = {
+  dribble: 'dribble.com/fbclh',
+  linkedIn: 'linkedin.com/fbclh',
+  angelList: 'angel.co/fbclh',
+  web: 'fbclh.tech',
+};
+```
+
 
 
