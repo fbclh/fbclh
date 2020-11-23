@@ -19,7 +19,7 @@ const moreAboutMe = {
   dribble: 'dribble.com/fbclh',
   linkedIn: 'linkedin.com/fbclh',
   angelList: 'angel.co/fbclh',
-  web: 'fbclh.tech',
+  web: 'fbclh.tech'
 };
 ```
 
