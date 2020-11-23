@@ -7,6 +7,13 @@ Here are some ideas to get you started:
 
 Dribble: dribble.com/fbclh | LinkeIn: linkedin.com/fbclh | AngelList: angel.co/fbclh | Web: fbclh.tech
 
+const moreAboutMe = {
+  dribble: dribble.com/fbclh,
+  linkedIn: linkedin.com/fbclh,
+  angelList: angel.co/fbclh,
+  web: fbclh.tech,
+};
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
