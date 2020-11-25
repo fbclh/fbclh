@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <!--
-Dribble: dribble.com/fbclh | LinkeIn: linkedin.com/fbclh | AngelList: angel.co/fbclh | Web: fbclh.tech
+GitHub: github.com/fbclh | Dribble: dribble.com/fbclh | LinkeIn: linkedin.com/fbclh | AngelList: angel.co/fbclh | Web: fbclh.tech
 
 ```javascript
 const moreAboutMe = {
-  dribble: 'dribble.com/fbclh',
   linkedIn: 'linkedin.com/fbclh',
+  dribble: 'dribble.com/fbclh',
   angelList: 'angel.co/fbclh',
   web: 'fbclh.tech'
 };
