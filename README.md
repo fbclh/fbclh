@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-Hello there, I am Fabio a Full Stack Developer (Rails and React) student at Microverse.
+<!-- Hello there, I am Fabio a Full Stack Developer (Rails and React) student at Microverse. -->
 
 <!--
 GitHub: github.com/fbclh | Dribble: dribble.com/fbclh | LinkeIn: linkedin.com/fbclh | AngelList: angel.co/fbclh | Web: fbclh.tech
