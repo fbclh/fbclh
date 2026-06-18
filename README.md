@@ -12,7 +12,7 @@ fintech, SaaS, and trading teams.
 - Analytics engineering — dashboards, data pipelines, and KPI models
 - Full-stack data apps — Next.js / TypeScript front ends over Python / SQL
   
-- Free risk tools — position size calculators for Forex, Crypto, Futures, Stocks, and Kelly Criterion → [altusanalytics.io/calculator](https://altusanalytics.io/position-sizing-calculator)
+- Free risk tools — position size calculators for Forex, Crypto, Futures, Stocks, and Kelly Criterion → [altusanalytics.io/calculators](https://altusanalytics.io/position-sizing-calculator)
 - Consulting — custom analytics systems, reporting pipelines, and financial dashboards → [altusanalytics.io/consulting](https://altusanalytics.io/consulting)
 
 *Open to consulting work and conversations — [get in touch](https://altusanalytics.io/intake)*
