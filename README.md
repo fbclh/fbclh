@@ -5,9 +5,6 @@ raw data into decisions delivered as production web applications.
 I work primarily in **Python, SQL, Next.js, and TypeScript**.
 
 I work across analytics engineering and full-stack data apps, delivering data pipelines, KPI models, and dashboards with Next.js / TypeScript over Python / SQL for data — and consult independently through Altus Analytics for fintech, SaaS, and trading teams.
-
-I work across analytics engineering and full-stack data apps — data pipelines, KPI models, 
-and dashboards, with Next.js / TypeScript front ends over Python / SQL.
   
 - Free risk tools — position size calculators for Forex, Crypto, Futures, Stocks, and Kelly Criterion → [altusanalytics.io/calculators](https://altusanalytics.io/position-sizing-calculator)
 - Consulting — custom analytics systems, risk analytics, reporting pipelines, and financial dashboards → [altusanalytics.io/consulting](https://altusanalytics.io/consulting)
